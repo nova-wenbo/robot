@@ -1,0 +1,3 @@
+".\Objects\main.obj" 
+TO ".\Objects\sizu" 
+PRINT(".\Listings\sizu.m51") RAMSIZE(256) 
